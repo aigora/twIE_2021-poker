@@ -4,8 +4,8 @@ Juego de poker descubierto en el que participen dos jugadores como mínimo
 ## Integrantes del equipo
 - Alexia Angulo Montoya (aamontoya)
 - Pablo Basoa Domingo (PabloBasoaDomingo)
-- Sergio Arias Blanco ()
-- Deniz Alcobendas Cakmak ()
+- Sergio Arias Blanco (sergioariasblanco)
+- Deniz Alcobendas Cakmak (DenizAlcobendas)
 
 ## Objetivos del trabajo
 Crear un juego de poker descubierto en el que hayan 52 cartas sin contar el comodín, de las cuales 5 cartas son asignadas a cada jugador pudiéndose formar las siguientes combinaciones en orden creciente:

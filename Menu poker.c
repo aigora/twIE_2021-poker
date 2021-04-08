@@ -14,9 +14,9 @@ int main()
  while(1)
  {
  	 printf("Se encuentra en el menu principal del juego, eliga una de las opciones siguientes: \n");
-	printf("Pulse 1 si quiere leer las instrucciones \n");
- 	printf("Pulse 2 si quiere iniciar la partida \n");
- 	printf("Pulse 3 si desea salir del juego \n");
+	printf("Pulse 1  si quiere leer las instrucciones \n");
+ 	printf("Pulse 2  si quiere iniciar la partida \n");
+ 	printf("Pulse 3  si desea salir del juego \n");
  	printf("\n");
  	scanf("%d",&a);
  switch (a)

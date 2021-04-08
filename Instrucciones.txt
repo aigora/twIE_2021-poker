@@ -76,7 +76,7 @@ Cuando todos los jugadores tienen sus cartas, entran en la primera ronda de apue
 Cada jugador consulta sus cartas y decide sobre ellas. La ronda de apuestas “Pre-Flop” comienza con el jugador a la izquierda de la ciega grande. 
 
 Este tiene tres opciones:
-	1.-Fold (abandonar): No hacer apuestas y mandar sus dos cartas al crupier, esperando a la siguiente mano.	2.-Igualar (Call): Iguala la apuesta realizada por la ciega grande.	3.-Subir (Raise): Sube la apuesta realizada por la ciega grande.
+	1.-Fold (abandonar): No hacer apuestas y mandar sus dos cartas al crupier, esperando a la siguiente mano.		2.-Igualar (Call): Iguala la apuesta realizada por la ciega grande.			3.-Subir (Raise): Sube la apuesta realizada por la ciega grande.
 Una vez el jugador ha decidido con su mano, la acción pasa al jugador situado a su izquierda. Este dispondrá de las mismas opciones.
 
 Una ronda de apuestas finaliza cuando se cumplen las siguientes condiciones:

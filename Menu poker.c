@@ -6,7 +6,7 @@ int main()
 {
  int a  ;
  FILE *Instrucciones;
-  
+
  printf("Bienvenido a PokerToChido, esperemos que lo disfrute.\n");
  printf("\n");
  printf("\n");
@@ -23,8 +23,13 @@ int main()
  {
  	case 1:
  		printf("Las instrucciones para el juego son las siguientes: ");
- 		Instrucciones=fopen("Instrucciones.txt","r");
- 		break;
+ 		 fp = fopen("C:/Users/sergi/Desktop/Nueva carpeta/Instrucciones.txt", "r");
+
+      while((ch=fgetc(fp)) != EOF)
+        printf("%c", ch);
+
+      fclose(fp);
+       		break;
  	case 2:
 	    printf("Preparese para configurar su juego...");
 	    //Aqui iria el resto del programa
@@ -32,8 +37,9 @@ int main()
 	case 3:
 	    printf("Vuelva pronto \n");
 		exit(0);
-		break;	
+		break;
  }
-	
+
  }
 }
+

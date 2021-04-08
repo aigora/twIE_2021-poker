@@ -1,0 +1,170 @@
+﻿|INSTRUCCIONES PÓKER DESCUBIERTO|
+
+|EL JUEGO DEL PÓKER|
+
+Antes que nada, aquí encontraréis una lista del vocabulario que se usa en las mesas de esta modalidad de póker.
+
+|GLOSARIO|
+
+-BOTÓN
+Apodo para el jugador que actúa como crupier o dealer en la mano.
+-CIEGAS
+Las ciegas son las apuestas que un jugador debe hacer sin mirar sus dos o más cartas en mano durante una partida. En esta modalidad de póker, las ciegas sustituyen y complementan “ante”.
+-CHECK
+Es el momento en el que un jugador pasa sin hacer ninguna apuesta en la mano. Si no hay ninguna subida “Pre-Flop”, la Ciega Grande deberá hacer Check.
+-FLOP
+Las tres primeras cartas comunitarias repartidas en la mesa.
+-PRE-FLOP
+Acciones que ocurren antes de que el Flop se reparta en la mesa.
+-RIVER
+Quinta carta comunitaria en la mesa. También conocida como Quinta Calle.
+-SHOWDOWN
+Cuando los jugadores revelan sus cartas en mano para conocer la mejor combinación en la mesa y descubrir quién se lleva el bote ganador.
+-TURN
+Cuarta carta comunitaria en la mesa. También conocida como cuarta calle.
+//El póker se ha de jugar entre 2 a 6 jugadores y se debe de realizar en el sentido de las agujas del reloj. 
+En esta modalidad de juego se estipula que haya 52 cartas en juego sin comodines, también llamada "baraja de naipes".//
+
+|VALOR DE LAS CARTAS|
+Posición 1ª o 14ª.- A: (As o 1).
+Posición 13ª.- K: (Rey o King).
+Posición 12ª.- Q:(Reina o Queen).
+Posición 11ª.- J: (Jack, jota o sota).
+Posición 10ª.- 10: (número 10).
+Posición 9ª.- 9: (número 9).
+Posición 8ª.- 8: (número 8).
+Posición 7ª.- 7: (número 7).
+Posición 6ª.- 6: (número 6).
+Posición 5ª.- 5: (número 5).
+Posición 4ª.- 4: (número 4).
+Posición 3ª.- 3: (número 3).
+Posición 2ª.- 2: (número 2).
+
+El póker normalmente se juega con dinero, pero es preferible usar fichas. 
+En esta modalidad vamos a usar las fichas de valores $1, $2, $5, $10, $20 y con clores de ficha blanco, rojo, azul, verde y amarillo respectivamente.
+
+En este juego vamos a establecer que no haya límites de apuestas y que el saldo inicial de cada jugador sea de $200.
+
+De forma simple, una ronda de póquer se juega de la siguiente manera:
+
+|INICIO|: 
+
+-LAS CIEGAS
+
+El jugador a la izquierda del crupier paga la ciega pequeña, mientras que el jugador inmediatamente a su izquierda paga la ciega grande (que suele ser el doble del valor de la pequeña). 
+Normalmente el valor de la ciega pequeña suele rondar los $0’10, $0’20 o $1.
+
+
+-RONDA DE APUESTAS
+
+El crupier distribuye dos cartas ocultas de una en una a los jugadores en el sentido de las agujas del reloj, quienes las han de mantener ocultas a los demás contrincantes. 
+Estas cartas se llaman cartas en mano o “hole cars”.
+
+Una mano consiste en un mínimo de una y un máximo de cuatro rondas de apuestas. 
+
+La mano puede terminar de dos formas diferentes: 
+	1.-Cuando todos los jugadores, salvo uno, han mandado las cartas al crupier. 
+		2.-Cuando la cuarta ronda de apuestas se completa con los jugadores mostrando sus cartas y decidiendo cuál es la mano que gana. 
+
+En este punto, los jugadores que quedan con las cartas en mano van al denominado Showdown.
+
+
+-PRE-FLOP
+
+Cuando todos los jugadores tienen sus cartas, entran en la primera ronda de apuestas, conocida como Pre-Flop. 
+
+Cada jugador consulta sus cartas y decide sobre ellas. La ronda de apuestas “Pre-Flop” comienza con el jugador a la izquierda de la ciega grande. 
+
+Este tiene tres opciones:
+	1.-Fold (abandonar): No hacer apuestas y mandar sus dos cartas al crupier, esperando a la siguiente mano.	2.-Igualar (Call): Iguala la apuesta realizada por la ciega grande.	3.-Subir (Raise): Sube la apuesta realizada por la ciega grande.
+Una vez el jugador ha decidido con su mano, la acción pasa al jugador situado a su izquierda. Este dispondrá de las mismas opciones.
+
+Una ronda de apuestas finaliza cuando se cumplen las siguientes condiciones:
+	• Todos los jugadores han tenido la oportunidad de tomar parte en la acción.
+	• Todos los jugadores que no han abandonado la mano han apostado la misma cantidad en la ronda.
+
+
+-FLOP
+
+Una vez finalizada la ronda de apuestas “Pre-Flop”, se reparten las tres primeras cartas comunitarias en la mesa. 
+
+El crupier ‘quema’ una de las cartas del mazo boca abajo, y seguidamente muestra tres cartas boca arriba en el centro de la mesa.
+
+Una vez que esto ocurre, comienza otra ronda de apuestas tras el Flop.
+
+Las reglas de esta ronda de apuestas después del Flop son las mismas que las del Pre-Flop, con dos pequeñas excepciones: 
+	1.-El primer jugador en actuar es el siguiente jugador con mano en juego a la izquierda del crupier, y este puede pasar (check) o apostar.
+		Si no hay apuesta, el resto de los jugadores pueden pasar (check). 
+			2.-La apuesta mínima en el Flop es la cantidad de la ciega grande.
+
+
+-TURN
+
+Una vez se completa la ronda de apuestas en el Flop, el crupier vuelve a “quemar” una carta del mazo boca abajo y coloca una carta boca arriba junto a las tres cartas del Flop. 
+Esto es lo que se conoce como Turn, y tras ello comienza otra ronda de apuestas.
+
+
+-RIVER
+
+Si tras la ronda de apuestas del Turn queda más de un jugador con dos cartas en su mano, el crupier vuelve a hacer la misma operación de descartar un naipe del mazo 
+y colocar la última y quinta carta común sobre la mesa, conocida como River.
+
+Tras ello no se repartirán más cartas en la mano. La ronda de apuestas tras ella es idéntica a la del Turn.
+
+
+-SHOWDOWN
+
+Una vez la ronda de apuestas en el River se haya completado, los jugadores que queden con dos cartas en mano entran en la fase de Showdown o muestra de cartas. 
+En este punto, la mayor mano de póker de cinco cartas gana el bote.
+
+Las reglas establecen que el jugador que apostó en el River es el primer jugador que tiene que enseñar su mano. Aunque no hay ningún problema si otro jugador decide hacerlo primero.
+
+Si no hay apuestas en el River y todos los jugadores pasan (check), el jugador más cercano a la izquierda del crupier debe enseñar primero su mano, 
+continuando con el jugador siguiente en el sentido de las agujas del reloj.
+
+Si un jugador ve que una mano de su rival es mejor que la suya, tiene la opción de revelar su mano o de no hacerlo (Muck o Muckear) y dar el bote a su rival.
+
+
+
+|MANOS DE PÓKER|
+
+Las reglas señalan que debes conseguir la mejor mano posible usando cualquier combinación con las dos cartas en mano y las cinco comunitarias en mesa.
+
+Puedes usar tus dos cartas en mano, una o ninguna para hacer tu mejor mano. El orden de clasificación de las manos de póker es siempre el mismo.
+
+Una vez se determine la mano de póker ganadora, el jugador recibe el bote acumulado.
+
+|VALOR DE LAS MANOS DEL PÓKER|
+
+Una mano de póker siempre está formada por cinco cartas.
+	• La escalera real o flor imperial (royal flush) es la mano más valiosa y menos frecuente del póquer. 
+		Consiste en la combinación de las cinco cartas de mayor valor consecutivas (el As, la K, la Q, la J y el 10), y deben ser estrictamente del mismo palo.
+	
+	• Escalera de color: Cinco cartas consecutivas del mismo palo. 
+		El As se puede contar como alto para hacer el tipo más alto de escalera real, que es (AKQJ-10) de un palo, a veces conocido como “Royal Flush”. 
+		Puede ser bajo para hacer As (5-4-3-2-A), pero no alto y bajo al mismo tiempo (por ejemplo, 2-AKQJ no es válido).
+	
+	• Póker: Cuatro cartas del mismo valor y otra carta, (por ejemplo 9-9-9-9-Q).
+	
+	• Completo (Full House o Full): Tres cartas del mismo rango más un par de cartas de otro rango, (como 5-5-5-KK), que se describiría como “Cinco fulles de reyes”.
+	
+	• Color (Flush): Una escala compuesta de cinco cartas del mismo palo (no todas consecutivas, de lo contrario sería una escalera real).
+	
+	• Escalera (Straight): Cinco cartas consecutivas seguidas, no todas del mismo palo.
+		El más alto es (AKQJ-10) y, en cambio, un As puede considerarse el más bajo para formar la escala (5-4-3-2-A) más baja, que a veces se denomina “rueda”. 
+		Un As no puede estar en una escala, por ejemplo (4-3-2-AK) no es una línea recta.
+	
+	• Trío: Tres cartas del mismo valor y dos cartas de varias clases: (por ejemplo 7-7-7-10-6). Esto también se conoce como “triplete”.
+	
+	• Doble Pareja: Dos cartas del mismo rango, dos cartas de un segundo rango y una carta de un tercer lugar, por ejemplo, (JJ-3-3-8).
+	
+	• Pareja: Dos cartas del mismo valor y tres cartas de varias clases: por ejemplo, (QQA-8-7).
+	
+	• Carta más alta o Nada: Una mano que no entra en las categorías anteriores se puede considerar debido a la presencia de la carta más alta “Carta alta” o, a veces, Nada (Sin par), 
+		es decir, cinco cartas de diferente valor sin ninguna consecutivas.
+
+
+¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡¡Y tras estas instrucciones esperemos que te lo pases bien jugando al PókerToChido. Mucha suerte y que la fuerza te acompañe!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+

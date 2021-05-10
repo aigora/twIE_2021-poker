@@ -99,7 +99,7 @@ int main()
                     srand(time(0));
 
                     char palo[4][10] = {"Treboles", "Diamantes", "Corazones", "Espadas"};
-                    char cara[3] = {'J', 'Q', 'K'};
+                    char cara[3] = {'1','2','3','4','5','6','7','8','9','10','J', 'Q', 'K', 'A'};
 
                     int num = 2, i;
 

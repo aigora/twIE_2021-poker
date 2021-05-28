@@ -66,7 +66,7 @@ int main()
             {
                 do
                 {
-                    printf("Escribe el nombre del jugador %d :",i+1);
+                    printf("Escribe el nombre del jugador %d:",i+1);
                     scanf("%s",jugador[i].nombre);
 		            longiN=strlen(jugador[i].nombre);
 		        }while(longiN>30);
@@ -111,7 +111,7 @@ int main()
                     printf("Esta es la primera ronda de apuestas o Pre-Flop.\n\n");
                     printf("Los jugadores a la izquierda del Crupier han de pagar las distinas ciegas.\n");
                     printf("La ciega pequeña ($5) la ha de pagar el primer jugador y la ciega grande ($10), el segundo.\n\n");
-                    printf("Es el turno de %s, como eres el primer jugador debes pagar la ciega pequeña.\n",jugador[0].nombre);
+                    printf("Es el turno de %s, como eres el primer jugador debes pagar la ciega pequeña.",jugador[0].nombre);
                     system("pause");
                     printf("%s ha pagado la ciega pequeña ($5).\n",jugador[0].nombre);
                     bote_ganador=0;
@@ -440,7 +440,10 @@ int main()
                                         break;
                                 }
                                 }
-                    //IMPRIMIR LAS CARTAS DE TODOS LOS JUGADORES Y CODIGO DENIZ DICIENDO QUIEN GANO + CODIGO ALEXIA DICIENDO CUANTO GANO
+                                // en el i del siguiente printf se ha de introducir el un numero menos del jugador que ha ganadp
+                                printf("%s!!!!!!!!!!!\n",jugador[i].nombre);
+                                printf("HAS GANADO $%i",bote_ganador);
+                                //IMPRIMIR LAS CARTAS DE TODOS LOS JUGADORES Y CODIGO DE DENIZ DICIENDO QUIEN HA GANADO
 
 	    break;
 	case 3:

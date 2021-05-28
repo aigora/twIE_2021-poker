@@ -1,4 +1,5 @@
-Carta = cartas();
+#include "Cartas repartidor final.c"
+
 
 void ClasificarCartas(Carta * cartas, int num){
 	qsort(cartas, num, sizeof(Carta), comparaCartas);

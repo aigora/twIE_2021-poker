@@ -41,9 +41,9 @@ Posición 3ª.- 3: (número 3).
 Posición 2ª.- 2: (número 2).
 
 El póker normalmente se juega con dinero, pero es preferible usar fichas. 
-En esta modalidad vamos a usar las fichas de valores $1, $2, $5, $10, $20 y con clores de ficha blanco, rojo, azul, verde y amarillo respectivamente.
+En esta modalidad vamos a usar las fichas de valores $5, $10, $25, $100 y con colores de ficha rojo, azul, verde y negro respectivamente.
 
-En este juego vamos a establecer que no haya límites de apuestas y que el saldo inicial de cada jugador sea de $200.
+En este juego vamos a establecer que no haya límites de apuestas y que el saldo inicial de cada jugador sea de $500.
 
 De forma simple, una ronda de póquer se juega de la siguiente manera:
 
@@ -52,7 +52,7 @@ De forma simple, una ronda de póquer se juega de la siguiente manera:
 -LAS CIEGAS
 
 El jugador a la izquierda del crupier paga la ciega pequeña, mientras que el jugador inmediatamente a su izquierda paga la ciega grande (que suele ser el doble del valor de la pequeña). 
-Normalmente el valor de la ciega pequeña suele rondar los $0’10, $0’20 o $1.
+Normalmente el valor de la ciega pequeña suele rondar los $0’10, $0’20 o $1. En nuestro caso, las ciegas serán: la pequeña de $5 y la grande de $10.
 
 
 -RONDA DE APUESTAS
@@ -62,9 +62,7 @@ Estas cartas se llaman cartas en mano o “hole cars”.
 
 Una mano consiste en un mínimo de una y un máximo de cuatro rondas de apuestas. 
 
-La mano puede terminar de dos formas diferentes: 
-	1.-Cuando todos los jugadores, salvo uno, han mandado las cartas al crupier. 
-		2.-Cuando la cuarta ronda de apuestas se completa con los jugadores mostrando sus cartas y decidiendo cuál es la mano que gana. 
+La mano termina cuando la cuarta ronda de apuestas se completa con los jugadores mostrando sus cartas y decidiendo cuál es la mano que gana. 
 
 En este punto, los jugadores que quedan con las cartas en mano van al denominado Showdown.
 
@@ -75,13 +73,12 @@ Cuando todos los jugadores tienen sus cartas, entran en la primera ronda de apue
 
 Cada jugador consulta sus cartas y decide sobre ellas. La ronda de apuestas “Pre-Flop” comienza con el jugador a la izquierda de la ciega grande. 
 
-Este tiene tres opciones:
-	1.-Fold (abandonar): No hacer apuestas y mandar sus dos cartas al crupier, esperando a la siguiente mano.		2.-Igualar (Call): Iguala la apuesta realizada por la ciega grande.			3.-Subir (Raise): Sube la apuesta realizada por la ciega grande.
+Este tiene dosopciones:		1.-Igualar (Call): Iguala la apuesta realizada por la ciega grande.			2.-Subir (Raise): Sube la apuesta realizada por la ciega grande.
 Una vez el jugador ha decidido con su mano, la acción pasa al jugador situado a su izquierda. Este dispondrá de las mismas opciones.
 
 Una ronda de apuestas finaliza cuando se cumplen las siguientes condiciones:
 	• Todos los jugadores han tenido la oportunidad de tomar parte en la acción.
-	• Todos los jugadores que no han abandonado la mano han apostado la misma cantidad en la ronda.
+	• Todos los jugadores han apostado la misma cantidad en la ronda.
 
 
 -FLOP
@@ -93,9 +90,8 @@ El crupier ‘quema’ una de las cartas del mazo boca abajo, y seguidamente mue
 Una vez que esto ocurre, comienza otra ronda de apuestas tras el Flop.
 
 Las reglas de esta ronda de apuestas después del Flop son las mismas que las del Pre-Flop, con dos pequeñas excepciones: 
-	1.-El primer jugador en actuar es el siguiente jugador con mano en juego a la izquierda del crupier, y este puede pasar (check) o apostar.
-		Si no hay apuesta, el resto de los jugadores pueden pasar (check). 
-			2.-La apuesta mínima en el Flop es la cantidad de la ciega grande.
+	1.-El primer jugador en actuar es el siguiente jugador con mano en juego a la izquierda del crupier.
+			2.-La apuesta mínima en el Flop es la cantidad de la ciega grande, es decir, $10.
 
 
 -TURN
@@ -106,8 +102,7 @@ Esto es lo que se conoce como Turn, y tras ello comienza otra ronda de apuestas.
 
 -RIVER
 
-Si tras la ronda de apuestas del Turn queda más de un jugador con dos cartas en su mano, el crupier vuelve a hacer la misma operación de descartar un naipe del mazo 
-y colocar la última y quinta carta común sobre la mesa, conocida como River.
+El crupier vuelve a hacer la misma operación de descartar un naipe del mazo y colocar la última y quinta carta común sobre la mesa, conocida como River.
 
 Tras ello no se repartirán más cartas en la mano. La ronda de apuestas tras ella es idéntica a la del Turn.
 
@@ -118,9 +113,6 @@ Una vez la ronda de apuestas en el River se haya completado, los jugadores que q
 En este punto, la mayor mano de póker de cinco cartas gana el bote.
 
 Las reglas establecen que el jugador que apostó en el River es el primer jugador que tiene que enseñar su mano. Aunque no hay ningún problema si otro jugador decide hacerlo primero.
-
-Si no hay apuestas en el River y todos los jugadores pasan (check), el jugador más cercano a la izquierda del crupier debe enseñar primero su mano, 
-continuando con el jugador siguiente en el sentido de las agujas del reloj.
 
 Si un jugador ve que una mano de su rival es mejor que la suya, tiene la opción de revelar su mano o de no hacerlo (Muck o Muckear) y dar el bote a su rival.
 

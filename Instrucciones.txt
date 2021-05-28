@@ -89,9 +89,11 @@ El crupier ‘quema’ una de las cartas del mazo boca abajo, y seguidamente mue
 
 Una vez que esto ocurre, comienza otra ronda de apuestas tras el Flop.
 
-Las reglas de esta ronda de apuestas después del Flop son las mismas que las del Pre-Flop, con dos pequeñas excepciones: 
+Las reglas de esta ronda de apuestas después del Flop son las mismas que las del Pre-Flop, con tres pequeñas excepciones: 
 	1.-El primer jugador en actuar es el siguiente jugador con mano en juego a la izquierda del crupier.
 			2.-La apuesta mínima en el Flop es la cantidad de la ciega grande, es decir, $10.
+				3.- Se modifica la opción de igular la apuesta por mantener tu apuesta. Es decir, si el jugador que va detrás de ti apuesta $100 y tu apuesta anterior 
+					fue de $5, no hace falta que iguales la apuesta. Puedes dejar tu apuesta como estaba. 
 
 
 -TURN
